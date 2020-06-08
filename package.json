@@ -8,7 +8,7 @@
     "typescript",
     "quick start"
   ],
-  "main": "index.js",
+  "main": "src/index.ts",
   "author": "Rain120",
   "license": "MIT",
   "repository": {
@@ -25,7 +25,10 @@
     "prettier": "prettier --write  src/**/** lib/**/**",
     "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s -r 0",
     "lint-staged": "lint-staged",
-    "tsc": "tsc -w --"
+    "tsc": "tsc -w"
+  },
+  "engines": {
+    "node": ">= 10.14.2"
   },
   "lint-staged": {
     "[src|lib]": [

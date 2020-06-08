@@ -2,11 +2,11 @@
  * @Author: Rainy
  * @Date: 2020-06-05 20:08:02
  * @LastEditors: Rainy
- * @LastEditTime: 2020-06-05 20:11:10
+ * @LastEditTime: 2020-06-08 17:33:02
 --> 
 
 <h3 align="center">
-  <a href="https://github.com/Rain120/node-ts-quick-start">Awesome Javascript Code Implementation</a>
+  <a href="https://github.com/Rain120/node-ts-quick-start">Node Ts Quick Start</a>
 </h3>
 
 <div align="center">
@@ -40,6 +40,7 @@ Welcome to the Node Typescript Quick Start.
 ⌨️ To be Continue...
 
 #### 🔨 Usage
+
 ⌨️ To be Continue...
 
 #### 🤝 Contributing
