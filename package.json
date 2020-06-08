@@ -31,10 +31,9 @@
     "node": ">= 10.14.2"
   },
   "lint-staged": {
-    "[src|lib]": [
+    "*.{js,md,ts}": [
       "npm run eslint",
-      "npm run prettier",
-      "git add"
+      "npm run prettier"
     ]
   },
   "husky": {
